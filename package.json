@@ -1,0 +1,27 @@
+{
+  "name": "crimson-code",
+  "version": "1.0.0",
+  "description": "A Senate Meeting for a budget for Coding Cougs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reveal-md slides.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingCougs/crimsoncode-senatemeeting.git"
+  },
+  "keywords": [
+    "reavel",
+    "md"
+  ],
+  "author": "Coding Cougs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingCougs/crimsoncode-senatemeeting/issues"
+  },
+  "homepage": "https://github.com/CodingCougs/crimsoncode-senatemeeting#readme",
+  "dependencies": {
+    "reveal-md": "^1.1.3"
+  }
+}
