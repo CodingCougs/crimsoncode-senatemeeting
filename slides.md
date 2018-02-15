@@ -1,7 +1,9 @@
 
 # Coding Cougs
 <img src="./assets/CC-logo.png" style="height:150px;width:150px;">
+
 ---
+
 # Crimson Code
 <img src="./assets/crimson-code-logo-white.png">
 
