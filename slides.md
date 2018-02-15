@@ -60,6 +60,7 @@
 ---
 ## Budget
 ### The Total requested amount is $2225.
+
     Description   | Quantity      | Total
     ------------- | ------------- | ---------
     Hotel         | 6 Rooms       |  $850
@@ -68,11 +69,11 @@
     T-Shirts      | 30            |  $650
     Food          | 12            |  $250
 
----
+----
 ## Hotel Rooms
 ### Staying at The [Hilltop](https://hilltopinnpullman.com/) near WSU Pullman
 * Requesting <span style="color: #f8ff8c">6 rooms</span>
-    *  <span style="color: #f8ff8c">2 members/room</span>
+    *  <span style="color: #f8ff8c">2 members per room</span>
 
 <details>
     <summary>
@@ -81,12 +82,12 @@
 Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Manny, Devon
 </details>
 
----
+----
 ## Hotel Rooms - Cost
-* Room Cost: <span style="color: #37B373">$109.95/room</span>
-* Total cost w/ tax is approximately: ~ <span style="color: #37B373">$850</span>
+* Room Cost: <span style="color: #37B373">$109.95 per room</span>
+* Total cost w/ tax: ~ <span style="color: #37B373">$850</span>
 
----
+----
 ## Transportation
 ### We are renting from Enterprise
 * Requesting <span style="color: #f8ff8c">two 7-passenger vans</span>
@@ -95,28 +96,28 @@ Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Ma
 * Drivers will be club officers
     * Jiro, Haiden, Ryan, and Randy
 
----
+----
 ## Transportation - Cost
-* Rental Cost: <span style="color: #37B373">$205.41/van</span>
+* Rental Cost: <span style="color: #37B373">$205.41 per van</span>
     * Total cost of rental: ~ <span style="color: #37B373">$410.00</span>
-* 3-Day Trip Gas Cost: <span style="color: #37B373">$100/van</span>
+* 3-Day Trip Gas Cost: <span style="color: #37B373">$100 per van</span>
     * Total cost of gas: ~ <span style="color: #37B373">$200.00</span>
-* Total cost is approximately: ~ <span style="color: #37B373">$610.00</span>
+* Total cost: ~ <span style="color: #37B373">$610.00</span>
 
----
+----
 ## T-Shirts
-### Club wants to get new T-shirts for event
+### Club wants to get new T-shirts
 * T-shirts are made locally through
     - <span span style="color: #ea4793">__Team Henry Designs__</span>
 * Requesting <span style="color: #f8ff8c">30 t-shirts</span>
-* T-shirt Cost: ~ <span style="color: #37B373">$20/t-shirt</span>
+* T-shirt Cost: ~ <span style="color: #37B373">$20 per t-shirt</span>
 * Total cost w/ tax: ~ <span style="color: #37B373">$651.60</span>
 
----
+----
 ## Food
 * Crimson Code is providing meals for Saturday and Sunday at no additional cost
 * Requesting funds to provide dinner for Friday evening
-* Meal Cost: ~ <span style="color: #37B373">$20/member</span>
+* Meal Cost: ~ <span style="color: #37B373">$20 per member</span>
 * Total cost: ~ <span style="color: #37B373">$250</span>
 
 ---
