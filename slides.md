@@ -1,24 +1,57 @@
 <!--- .slide: data-background-video="/assets/techback.mp4" -->
 # Coding Cougs
-<img src="./assets/CC-logo.png" style="height:150px;width:150px;">
+<img
+    src="./assets/CC-logo.png"
+    style="height: 250px; width: 250px; border: none; background: none; box-shadow: none"
+>
 
 ---
-
 # Crimson Code
-<img src="./assets/crimson-code-logo-white.png">
-
+<img
+    src="./assets/crimson-code-logo-white.png"
+    width="50%"
+    style="border: none; background: none; box-shadow: none"
+>
 
 ---
-# Previous Hackathons
-Google Trip Picture
+## Previous Hackathon
+<img
+    src="./assets/hall_img.jpeg"
+    width="32%"
+>
+<img
+    src="./assets/dubhacks.jpg"
+    width="32%"
+>
+<img
+    src="./assets/passed_out.jpg"
+    width="24%"
+>
 
 ---
-# Why Hackathons
-    * Hackathons are an innovative proving ground for new ideas.
-    * Hackathons build a bridge to the developer community.
-    * Hackathons introduce people to new technologies.
-    * Hackathons allow students to get real life experience in software development.
-    * A place for recruitment by companies.
+# Why Hackathon
+#### Hackathons...
+* are an innovative proving ground for new ideas.
+* build a bridge to the developer community.
+* introduce people to new and inovative technologies.
+* provide real life experience in software development.
+* promote networking with companies.
+
+<img
+    src="./assets/Microsoft.png"
+    width="22%"
+    style="background: none; border: none; box-shadow: none;"
+>
+<img
+    src="./assets/Facebook.png"
+    width="18%"
+    style="background: none; border: none; box-shadow: none;"
+>
+<img
+    src="./assets/Google.png"
+    width="18%"
+    style="background: none; border: none; box-shadow: none;"
+>
 
 ---
 # Budget
@@ -37,30 +70,30 @@ Google Trip Picture
     * We have 12 people total. 
     * Two people per room. 
     * Total of 6 rooms.
-    * Price for one room is $109,95
+    * Price for one room is $109.95
     * Total cost with tax is going to be around $850
 
 ---
 # Transportation
 ### We are renting two 7 people vans.
-    * The cost per van is $205.41
-    * Total cost of gas for 3 day trip per van is around $100.
-    * Total cost of the vans and gas is around $610
+* The cost per van is <span style="color: #37B373">$205.41</span>.
+* Total cost of gas for 3 day trip per van is around <span style="color: #37B373">$100</span>.
+* Total cost of the vans and gas is around <span style="color: #37B373">$610</span>.
 
 ---
 # T-Shirts
 ### For this event the club wanted to get new T-shirts.
-    * We are getting 30 new T-Shirts.
-    * The cost per T-shirts is $20.
-    * The T-Shirts are being printed locally at `Team Henry Designs`.
-    * Total cost of T-Shirts is $651.60.
+* We are getting <span style="color: #37B373">__30__</span> new T-Shirts.
+* The cost per T-shirts is <span style="color: #37B373">__$20__</span>.
+* The T-Shirts are being printed locally at <span span style="color: #37B373">__Team Henry Designs__</span>.
+* Total cost of T-Shirts is <span style="color: #37B373">__$651.60__</span>.
 
 ---
 # Food
-### Since we are staying at a hotel on Friday March 2nd, we would like to provide dinner for the club members that night.
-    * The estimated meal price per member is about $20.
-    * The total cost of food is around $250.
-Food for the two other days is going to be provided for free at the Hackathon.
+Since we are staying at a hotel on Friday, we need to provide dinner for the club members that night.
+* The estimated meal price per member is about <span style="color: #37B373">$20</span>.
+* The total cost of food is around <span style="color: #37B373">$250</span>.
+* Food is provided by Crimson Code for the following two days at no additional costs.
 
 ---
 # Questions ?
