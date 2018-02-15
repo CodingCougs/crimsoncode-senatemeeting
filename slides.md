@@ -15,7 +15,7 @@
 >
 
 ---
-## Previous Hackathon
+## Previous Hackathon - [dubhacks](http://dubhacks.co/)
 <img
     src="./assets/hall_img.jpeg"
     width="32%"
@@ -70,11 +70,16 @@
 
 ---
 ## Hotel Rooms
-### We are going to stay at The [Hilltop](https://hilltopinnpullman.com/) near WSU Pullman.
+### Staying at The [Hilltop](https://hilltopinnpullman.com/) near WSU Pullman
 * Requesting <span style="color: #f8ff8c">6 rooms</span>
-    * <span style="color: #f8ff8c">12 members</span>
-        * Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Manny, Devon
     *  <span style="color: #f8ff8c">2 members/room</span>
+
+<details>
+    <summary>
+        <span style="color: #f8ff8c">12 club members</span>
+    </summary>
+Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Manny, Devon
+</details>
 
 ---
 ## Hotel Rooms - Cost
