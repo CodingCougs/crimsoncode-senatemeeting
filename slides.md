@@ -1,4 +1,3 @@
-
 # Coding Cougs
 <img src="./assets/CC-logo.png" style="height:150px;width:150px;">
 
@@ -20,10 +19,13 @@ Stuff go here
 ---
 # Budget
 ### The Total requested amount is $2225.
-    * Hotel Rooms - $850
-    * Transportation - $610
-    * T-Shirts - $650
-    * Food - $250
+    Description   | Quantity      | Total
+    ------------- | ------------- | ---------
+    Hotel         | 6 Rooms       |  $850
+    Cars          | 2 Vans        |  $410
+    Gas           | 2             |  $200
+    T-Shirts      | 30            |  $650
+    Food          | 12            |  $250
 
 ---
 # Hotel Rooms
