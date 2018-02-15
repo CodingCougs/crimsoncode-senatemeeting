@@ -6,7 +6,8 @@
 >
 
 ---
-# Crimson Code
+# [Crimson Code](http://hackathon.eecs.wsu.edu/)
+
 <img
     src="./assets/crimson-code-logo-white.png"
     width="50%"
@@ -18,18 +19,21 @@
 <img
     src="./assets/hall_img.jpeg"
     width="32%"
+    style="border: none; background: none; box-shadow: none"
 >
 <img
     src="./assets/dubhacks.jpg"
     width="32%"
+    style="border: none; background: none; box-shadow: none"
 >
 <img
     src="./assets/passed_out.jpg"
     width="24%"
+    style="border: none; background: none; box-shadow: none"
 >
 
 ---
-# Why Hackathon
+## Why Hackathon
 #### Hackathons...
 * are an innovative proving ground for new ideas.
 * build a bridge to the developer community.
@@ -54,7 +58,7 @@
 >
 
 ---
-# Budget
+## Budget
 ### The Total requested amount is $2225.
     Description   | Quantity      | Total
     ------------- | ------------- | ---------
@@ -66,7 +70,7 @@
 
 ---
 ## Hotel Rooms
-### We are going to stay at The Hilltop near WSU Pullman.
+### We are going to stay at The [Hilltop](https://hilltopinnpullman.com/) near WSU Pullman.
 * Requesting <span style="color: #f8ff8c">6 rooms</span>
     * <span style="color: #f8ff8c">12 members</span>
         * Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Manny, Devon
