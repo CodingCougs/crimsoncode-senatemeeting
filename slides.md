@@ -13,8 +13,11 @@ Google Trip Picture
 
 ---
 # Why Hackathons
-
-Stuff go here
+    * Hackathons are an innovative proving ground for new ideas.
+    * Hackathons build a bridge to the developer community.
+    * Hackathons introduce people to new technologies.
+    * Hackathons allow students to get real life experience in software development.
+    * A place for recruitment by companies.
 
 ---
 # Budget
@@ -42,7 +45,6 @@ Stuff go here
     * The cost per van is $205.41
     * Total cost of gas for 3 day trip per van is around $100.
     * Total cost of the vans and gas is around $610
-
 
 ---
 # T-Shirts
