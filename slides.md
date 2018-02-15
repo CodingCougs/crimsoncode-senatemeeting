@@ -1,3 +1,4 @@
+<!--- .slide: data-background-video="/assets/techback.mp4" -->
 # Coding Cougs
 <img src="./assets/CC-logo.png" style="height:150px;width:150px;">
 
