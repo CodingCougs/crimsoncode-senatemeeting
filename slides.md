@@ -1,7 +1,7 @@
-<!--- .slide: data-background-video="./assets/techback.mp4" -->
+<!--- .slide: data-background-video="./docs/assets/techback.mp4" -->
 # Coding Cougs
 <img
-    src="./assets/CC-logo.png"
+    src="./docs/assets/CC-logo.png"
     style="height: 250px; width: 250px; border: none; background: none; box-shadow: none"
 >
 
@@ -30,17 +30,17 @@
 * promote networking with companies.
 
 <img
-    src="./assets/Microsoft.png"
+    src="./docs/assets/Microsoft.png"
     width="22%"
     style="background: none; border: none; box-shadow: none;"
 >
 <img
-    src="./assets/Facebook.png"
+    src="./docs/assets/Facebook.png"
     width="18%"
     style="background: none; border: none; box-shadow: none;"
 >
 <img
-    src="./assets/Google.png"
+    src="./docs/assets/Google.png"
     width="18%"
     style="background: none; border: none; box-shadow: none;"
 >
@@ -54,17 +54,17 @@
 #### [dubhacks](http://dubhacks.co/)
 
 <img
-    src="./assets/hall_img.jpeg"
+    src="./docs/assets/hall_img.jpeg"
     width="32%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./assets/dubhacks.jpg"
+    src="./docs/assets/dubhacks.jpg"
     width="32%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./assets/passed_out.jpg"
+    src="./docs/assets/passed_out.jpg"
     width="24%"
     style="border: none; background: none; box-shadow: none"
 >
@@ -73,7 +73,7 @@
 # [Crimson Code](http://hackathon.eecs.wsu.edu/)
 
 <img
-    src="./assets/crimson-code-logo-white.png"
+    src="./docs/assets/crimson-code-logo-white.png"
     width="50%"
     style="border: none; background: none; box-shadow: none"
 >
