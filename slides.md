@@ -6,31 +6,19 @@
 >
 
 ---
-# [Crimson Code](http://hackathon.eecs.wsu.edu/)
-
-<img
-    src="./assets/crimson-code-logo-white.png"
-    width="50%"
-    style="border: none; background: none; box-shadow: none"
->
+## Introduction
+* President - Jiro Farah
+* Vice President - Haiden Deaton
+* Treasurer - Ryan Joyce
+* Secretary - Randy Tran
 
 ---
-## Previous Hackathon - [dubhacks](http://dubhacks.co/)
-<img
-    src="./assets/hall_img.jpeg"
-    width="32%"
-    style="border: none; background: none; box-shadow: none"
->
-<img
-    src="./assets/dubhacks.jpg"
-    width="32%"
-    style="border: none; background: none; box-shadow: none"
->
-<img
-    src="./assets/passed_out.jpg"
-    width="24%"
-    style="border: none; background: none; box-shadow: none"
->
+## Purpose
+
+---
+## What is a Hackathon?
+
+"Anyone who has an interest in technology attends a hackathon to learn, build & share their creations" (MLH)
 
 ---
 ## Why Hackathon
@@ -58,8 +46,41 @@
 >
 
 ---
+## Previous Hackathon
+#### First Hack
+
+---
+## Previous Hackathon
+#### [dubhacks](http://dubhacks.co/)
+
+<img
+    src="./assets/hall_img.jpeg"
+    width="32%"
+    style="border: none; background: none; box-shadow: none"
+>
+<img
+    src="./assets/dubhacks.jpg"
+    width="32%"
+    style="border: none; background: none; box-shadow: none"
+>
+<img
+    src="./assets/passed_out.jpg"
+    width="24%"
+    style="border: none; background: none; box-shadow: none"
+>
+
+---
+# [Crimson Code](http://hackathon.eecs.wsu.edu/)
+
+<img
+    src="./assets/crimson-code-logo-white.png"
+    width="50%"
+    style="border: none; background: none; box-shadow: none"
+>
+
+---
 ## Budget
-### The Total requested amount is $2225.
+### The Total requested amount is $2500.
 
     Description   | Quantity      | Total
     ------------- | ------------- | ---------
