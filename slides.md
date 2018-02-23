@@ -1,7 +1,7 @@
-<!--- .slide: data-background-video="./docs/assets/techback.mp4" -->
+<!--- .slide: data-background-video="./assets/techback.mp4" -->
 # Coding Cougs
 <img
-    src="./docs/assets/CC-logo.png"
+    src="./assets/CC-logo.png"
     style="height: 250px; width: 250px; border: none; background: none; box-shadow: none"
 >
 ---
@@ -39,17 +39,17 @@
 ## Previous Hackathon
 #### First Hack
 <img
-    src="./docs/assets/CC-Hackathon1.jpg"
+    src="./assets/CC-Hackathon1.jpg"
     width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./docs/assets/CC-Hackathon2.jpg"
+    src="./assets/CC-Hackathon2.jpg"
     width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./docs/assets/CC-Hackathon3.jpg"
+    src="./assets/CC-Hackathon3.jpg"
     width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
@@ -58,17 +58,17 @@
 #### [dubhacks](http://dubhacks.co/)
 
 <img
-    src="./docs/assets/hall_img.jpeg"
+    src="./assets/hall_img.jpeg"
     width="32%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./docs/assets/dubhacks.jpg"
+    src="./assets/dubhacks.jpg"
     width="32%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
-    src="./docs/assets/passed_out.jpg"
+    src="./assets/passed_out.jpg"
     width="24%"
     style="border: none; background: none; box-shadow: none"
 >
@@ -77,7 +77,7 @@
 # [Crimson Code](http://hackathon.eecs.wsu.edu/)
 
 <img
-    src="./docs/assets/crimson-code-logo-white.png"
+    src="./assets/crimson-code-logo-white.png"
     width="50%"
     style="border: none; background: none; box-shadow: none"
 >
