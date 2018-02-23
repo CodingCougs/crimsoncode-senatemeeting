@@ -93,7 +93,7 @@
 
     Description   | Quantity      | Total
     ------------- | ------------- | ---------
-    Hotel         | 6 Rooms       |  $850
+    Hotel         | 7 Rooms       |  $850
     Cars          | 2 Vans        |  $410
     Gas           | 2             |  $200
     T-Shirts      | 30            |  $650
@@ -104,18 +104,15 @@
 ----
 ## Hotel Rooms
 ### Staying at The [Hilltop](https://hilltopinnpullman.com/) near WSU Pullman
-* Requesting <span style="color: #f8ff8c">6 rooms</span>
+* Requesting <span style="color: #f8ff8c">7 rooms</span>
     *  <span style="color: #f8ff8c">2 members per room</span>
 
 <details>
     <summary>
-        <span style="color: #f8ff8c">12 club members</span>
+        <span style="color: #f8ff8c">14 club members</span>
     </summary>
-Jiro, Haiden, Ryan J., Randy, Stephanie, Ryan B., William, Mike, Bobby, Cole, Manny, Devon
-</details>
 
-----
-## Hotel Rooms - Cost
+</details>
 * Room Cost: <span style="color: #37B373">$109.95 per room</span>
 * Total cost w/ tax: ~ <span style="color: #37B373">$850</span>
 
