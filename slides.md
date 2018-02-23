@@ -117,8 +117,6 @@
 * Requesting <span style="color: #f8ff8c">two 7-passenger vans</span>
     * For <span style="color: #f8ff8c">3 days</span> (Fri, Sat, Sun)
     * Night drop off
-* Drivers will be club officers
-    * Jiro, Haiden, Ryan, and Randy
 
 ----
 ## Transportation - Cost
