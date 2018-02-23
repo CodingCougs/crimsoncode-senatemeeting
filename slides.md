@@ -6,6 +6,14 @@
 >
 
 ---
+# Purpose
+* To foster a culture of learning within the Computer Science community of the Tri-Cities.
+* An environment to explore new skills.
+* Participate in small and large scale coding projects.
+* Encourage members to seek out opportunities that will expand their knowledge.
+
+
+---
 # [Crimson Code](http://hackathon.eecs.wsu.edu/)
 
 <img
@@ -31,6 +39,7 @@
     width="24%"
     style="border: none; background: none; box-shadow: none"
 >
+<div>
 
 ---
 ## Why Hackathon
@@ -59,7 +68,7 @@
 
 ---
 ## Budget
-### The Total requested amount is $2225.
+### The Total requested amount is $2500.
 
     Description   | Quantity      | Total
     ------------- | ------------- | ---------
@@ -68,6 +77,8 @@
     Gas           | 2             |  $200
     T-Shirts      | 30            |  $650
     Food          | 12            |  $250
+    ------------- | ------------- | ---------
+                  |               |  $2360
 
 ----
 ## Hotel Rooms
