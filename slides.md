@@ -39,7 +39,7 @@
 ## Previous Hackathon
 #### First Hack
 <img
-    src="./docs/assets/CC-Hackathon1.jpeg"
+    src="./docs/assets/CC-Hackathon1.jpg"
     width="32%"
     style="border: none; background: none; box-shadow: none"
 >
