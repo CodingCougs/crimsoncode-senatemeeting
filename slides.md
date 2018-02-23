@@ -40,17 +40,17 @@
 #### First Hack
 <img
     src="./docs/assets/CC-Hackathon1.jpg"
-    width="32%"
+    width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
     src="./docs/assets/CC-Hackathon2.jpg"
-    width="32%"
+    width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
 <img
     src="./docs/assets/CC-Hackathon3.jpg"
-    width="24%"
+    width="33.33%"
     style="border: none; background: none; box-shadow: none"
 >
 ---
