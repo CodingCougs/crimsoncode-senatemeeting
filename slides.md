@@ -38,8 +38,8 @@
     width="24%"
     style="border: none; background: none; box-shadow: none"
 >
-<div>
 
+---
 ## What is a Hackathon?
 
 "Anyone who has an interest in technology attends a hackathon to learn, build & share their creations" (MLH)
@@ -53,22 +53,6 @@
 * introduce people to new and inovative technologies.
 * provide real life experience in software development.
 * promote networking with companies.
-
-<img
-    src="./docs/assets/Microsoft.png"
-    width="22%"
-    style="background: none; border: none; box-shadow: none;"
->
-<img
-    src="./docs/assets/Facebook.png"
-    width="18%"
-    style="background: none; border: none; box-shadow: none;"
->
-<img
-    src="./docs/assets/Google.png"
-    width="18%"
-    style="background: none; border: none; box-shadow: none;"
->
 
 ---
 ## Previous Hackathon
