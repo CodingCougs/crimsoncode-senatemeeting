@@ -21,25 +21,6 @@
 
 
 ---
-
-## Previous Hackathon - [dubhacks](http://dubhacks.co/)
-<img
-    src="./assets/hall_img.jpeg"
-    width="32%"
-    style="border: none; background: none; box-shadow: none"
->
-<img
-    src="./assets/dubhacks.jpg"
-    width="32%"
-    style="border: none; background: none; box-shadow: none"
->
-<img
-    src="./assets/passed_out.jpg"
-    width="24%"
-    style="border: none; background: none; box-shadow: none"
->
-
----
 ## What is a Hackathon?
 
 "Anyone who has an interest in technology attends a hackathon to learn, build & share their creations" (MLH)
@@ -57,7 +38,21 @@
 ---
 ## Previous Hackathon
 #### First Hack
-
+<img
+    src="./docs/assets/CC-Hackathon1.jpeg"
+    width="32%"
+    style="border: none; background: none; box-shadow: none"
+>
+<img
+    src="./docs/assets/CC-Hackathon2.jpg"
+    width="32%"
+    style="border: none; background: none; box-shadow: none"
+>
+<img
+    src="./docs/assets/CC-Hackathon3.jpg"
+    width="24%"
+    style="border: none; background: none; box-shadow: none"
+>
 ---
 ## Previous Hackathon
 #### [dubhacks](http://dubhacks.co/)
